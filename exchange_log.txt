@@ -1,0 +1,3 @@
+Received 'exchange' command: exchange 2 EUR USD GBP
+Received 'exchange' command: exchange 4 EUR USD
+Received 'exchange' command: exchange 4 USD
